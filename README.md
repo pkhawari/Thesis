@@ -4,4 +4,4 @@ The shapefiles were altered/edited in GIS. Further spatial analyses were done in
 
 Datasets will also need to be downloaded. 
 
-The associated paper can be found here: DOI: 10.1186/s12940-026-01298-4 
+The associated paper can be found here: [DOI: 10.1186/s12940-026-01298-4 ](https://doi.org/10.1186/s12940-026-01298-4)
