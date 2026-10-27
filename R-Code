@@ -3,6 +3,7 @@ library(car)
 library(MapGAM)
 library(dplyr)
 library(ggplot2)
+library(psych)
 install.packages("psych")
 
 
